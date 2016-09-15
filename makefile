@@ -1,3 +1,6 @@
+raissa: alban
+	cat alban > raissa
+
 alban: romeu
 	cat romeu > alban
 
