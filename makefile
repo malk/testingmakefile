@@ -4,6 +4,9 @@ julien: alban
 raissa: alban
 	cat alban > raissa
 
+abdallah:
+	echo "abdallah" > abdallah
+
 alban: romeu
 	cat romeu > alban
 
