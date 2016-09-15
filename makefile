@@ -1,8 +1,12 @@
-romeu: matthieu
-	cat matthieu > romeu
+alban: romeu
+	cat romeu > alban
 
-matthieu: Wittgenstein
-	cat Wittgenstein > matthieu
+
+romeu: mathieu
+	cat mathieu > romeu
+
+mathieu: Wittgenstein
+	cat Wittgenstein > mathieu
 
 Wittgenstein: mohamed
 	cat mohamed > Wittgenstein
@@ -11,4 +15,4 @@ mohamed:
 	echo 2 > mohamed
 
 clean:
-	rm -rf mohamed Wittgenstein matthieu romeu
+	rm -rf mohamed Wittgenstein mathieu romeu
