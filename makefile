@@ -17,7 +17,7 @@ Wittgenstein: mohamed
 	cat mohamed > Wittgenstein
 
 mohamed:
-	echo 2 > mohamed
+	echo 3 > mohamed
 
 clean:
 	rm -rf mohamed Wittgenstein mathieu romeu
