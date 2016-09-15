@@ -1,3 +1,6 @@
+julien: alban
+	car alban > julien
+
 alban: romeu
 	cat romeu > alban
 
