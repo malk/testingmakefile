@@ -1,17 +1,17 @@
-julien: raissa
-	car raissa > julien
+julien: Raissa
+	car Raissa > julien
 
-raissa: alban
-	cat alban > raissa
+Raissa: Alban
+	cat Alban > Raissa
 
 abdallah:
 	echo "abdallah" > abdallah
 
-alban: romeu
-	cat romeu > alban
+Alban: Romeu
+	cat Romeu > Alban
 
-romeu: mathieu
-	cat mathieu > romeu
+Romeu: mathieu
+	cat mathieu > Romeu
 
 mathieu: Wittgenstein
 	cat Wittgenstein > mathieu
@@ -23,4 +23,4 @@ mohamed:
 	echo 3 > mohamed
 
 clean:
-	rm -rf mohamed Wittgenstein mathieu romeu
+	rm -rf mohamed Wittgenstein mathieu Romeu
